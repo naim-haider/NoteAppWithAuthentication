@@ -1,12 +1,12 @@
 {
   "/_not-found": "app/_not-found.js",
-  "/api/register/route": "app/api/register/route.js",
   "/api/login/route": "app/api/login/route.js",
-  "/login/page": "app/login/page.js",
   "/api/notes/route": "app/api/notes/route.js",
-  "/api/notes/[noteid]/route": "app/api/notes/[noteid]/route.js",
+  "/api/register/route": "app/api/register/route.js",
   "/page": "app/page.js",
-  "/notedetail/[editnote]/page": "app/notedetail/[editnote]/page.js",
+  "/api/notes/[noteid]/route": "app/api/notes/[noteid]/route.js",
   "/notedetail/page": "app/notedetail/page.js",
+  "/login/page": "app/login/page.js",
+  "/notedetail/[editnote]/page": "app/notedetail/[editnote]/page.js",
   "/register/page": "app/register/page.js"
 }
